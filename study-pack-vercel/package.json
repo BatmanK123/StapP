@@ -1,0 +1,10 @@
+{
+  "name": "study-pack-maker",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "20.x" },
+  "dependencies": {
+    "stripe": "^17.5.0",
+    "youtube-transcript": "^1.2.1"
+  }
+}
